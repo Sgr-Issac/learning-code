@@ -1,0 +1,14 @@
+﻿生成启动时间为 2022/2/26 9:24:07。
+     1>项目“E:\c-code\learning_220223\learning_220223\learning_220223.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\新建文件夹\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TC /errorReport:prompt test2.c
+         test2.c
+     1>test2.c(51): warning C4047: “初始化”:“char”与“char [14]”的间接级别不同
+       Link:
+         D:\新建文件夹\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\c-code\learning_220223\x64\Debug\learning_220223.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\c-code\learning_220223\x64\Debug\learning_220223.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\c-code\learning_220223\x64\Debug\learning_220223.lib" /MACHINE:X64 x64\Debug\test2.obj
+         learning_220223.vcxproj -> E:\c-code\learning_220223\x64\Debug\learning_220223.exe
+     1>已完成生成项目“E:\c-code\learning_220223\learning_220223\learning_220223.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.63
