@@ -1,4 +1,4 @@
-#include <stdio.h>
+//#include <stdio.h>
 ////switch case(整形常量表达式) break语句
 //int main()
 //{
